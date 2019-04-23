@@ -27,7 +27,7 @@ function SplashPage() {
     <div id="main">
     <style>{`
       body {
-        background: url(${data.contentfulSplashPage.splashPageBackground.file.url}) no-repeat center center fixed; 
+        background: url(${data.contentfulSplashPage.splashPageBackground.file.url}) no-repeat top center fixed; 
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
