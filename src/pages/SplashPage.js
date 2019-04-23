@@ -57,6 +57,12 @@ function SplashPage() {
         grid-column: 1/4;
         grid-row: footer;
       }
+
+      @media (max-width: 1920px) {
+        img {
+          max-width: 1400px;
+        }
+      }
     `}</style>
 
       <div className="header">&nbsp;</div>
