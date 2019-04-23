@@ -41,6 +41,7 @@ function SplashPage() {
         display: block;
         position: relative;
         width: 100%;
+        max-width: 1620px;
         height: auto;
         grid-column: content;
         grid-row: content;
